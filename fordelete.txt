@@ -1,1 +1,1 @@
-file delete
+Текст

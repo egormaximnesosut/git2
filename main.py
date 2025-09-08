@@ -1,6 +1,6 @@
 
 print("-")
-print("hello")
+print("hello world")
 print("-")
-text = "Моё послание"
+
 print("-")

@@ -1,1 +1,6 @@
-print("Hello, world!")
+
+print("-")
+print("hello")
+print("-")
+text = "Моё послание"
+print("-")

@@ -3,4 +3,4 @@ print("-")
 print("hello world")
 print("-")
 
-print("-")
+print("-")зис ис изменённыый тестовый файл

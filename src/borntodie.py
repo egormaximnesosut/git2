@@ -1,1 +1,0 @@
-print('born to die')

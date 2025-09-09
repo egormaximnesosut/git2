@@ -1,4 +1,6 @@
 -
 [settings]
-theme=light
-language=ru
+-
+theme=dark
+-
+language=en

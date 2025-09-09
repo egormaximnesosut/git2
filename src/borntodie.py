@@ -1,0 +1,1 @@
+print('born to die')
